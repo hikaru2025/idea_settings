@@ -1,0 +1,14 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/5b196030_cxf-beans.xsd" />
+    <resource url="http://cxf.apache.org/schemas/jaxrs-common.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/69f6308a_jaxrs-common.xsd" />
+    <resource url="http://cxf.apache.org/schemas/jaxrs.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/57dc4f64_jaxrs.xsd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/d8159f10_spring-beans-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/334543e7_spring-beans.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/944024e2_spring-tool-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-4.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/5701c47a_spring-tx-4.0.xsd" />
+    <ignored-resource url="http://www.w3c.org/TR/1999/REC-html401-19991224/frameset.dtd" />
+    <ignored-resource url="http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd" />
+  </component>
+</application>

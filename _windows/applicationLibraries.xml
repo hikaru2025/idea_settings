@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery-2.1.0" type="kotlin.js">
+      <CLASSES>
+        <root url="file://D:/develop/jar/jquery-2.1.0.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>

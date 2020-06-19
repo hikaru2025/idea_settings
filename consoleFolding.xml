@@ -1,0 +1,12 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="2020-03-03 13:11:49,997 |  ERROR | -- [timeoutChecker_1_1            ] i.s.c.r.n.NettyClientChannelManager     ： no available server to connect." />
+        <option value="[imeoutChecker_1] i.s.c.r.netty.NettyClientChannelManager  : no available server to connect." />
+        <option value="close the connection to remote address[" />
+        <option value="no available server to connect" />
+      </list>
+    </option>
+  </component>
+</application>
