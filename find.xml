@@ -22,7 +22,7 @@
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*.ftl</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
