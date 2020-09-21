@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping pattern="FabricsNewsTopMapper" type="XML" />
       <mapping pattern="FabricsCategoryMapper" type="XML" />
