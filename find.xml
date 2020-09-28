@@ -19,9 +19,9 @@
     <mask>*.ltf</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
-    <mask>*.ftl</mask>
     <mask>*.pom</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.ftl</mask>
   </component>
 </application>
