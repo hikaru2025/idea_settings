@@ -434,6 +434,10 @@
           <option name="url" value="http://gitlab.baoji.com/bojee/fabric-international.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.baoji.com/bojee/fabric-international.git2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\BaiduNetdiskDownload" />
