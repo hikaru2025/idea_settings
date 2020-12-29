@@ -102,6 +102,14 @@
           <option name="url" value="https://github.com/zhangwei900808/awbeci-ssb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gslg/spring-auth2-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jinagamvasubabu/Spring-Oauth2-Redis-AuthorizationServer-Docker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Users\Admin\IdeaProjects" />
