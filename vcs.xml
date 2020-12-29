@@ -90,6 +90,14 @@
           <option name="url" value="https://github.com/whaty/auth2-auth-resource-sso.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-projects/spring-security-oauth2-boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/liuhongdi/securityoauth2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Users\Admin\IdeaProjects" />
