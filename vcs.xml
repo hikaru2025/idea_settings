@@ -146,6 +146,10 @@
           <option name="url" value="https://github.com/hikaru2025/Spring-Oauth2-Redis-AuthorizationServer-Docker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hikaru2025/spring-boot-react-oauth2-social-login-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Users\Admin\IdeaProjects" />
