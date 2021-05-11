@@ -147,7 +147,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/hikaru2025/spring-boot-react-oauth2-social-login-demo.git" />
+          <option name="url" value="https://github.com/callicoder/spring-boot-react-oauth2-social-login-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hikaru2025/fabric-international-auth.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
