@@ -183,7 +183,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/hikaru2025/springcloud-oauth2.git" />
+          <option name="url" value="https://github.com/edgar615/spring-cloud-feign-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Tiscs/spring-cloud-oauth2-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/copoile/springcloud-oauth2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
