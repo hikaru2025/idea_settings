@@ -210,9 +210,17 @@
           <option name="url" value="https://github.com/bdawn/sc-gateway-swagger-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SingleTigger/SpringCloudGateway-Nacos-Demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pursue-wind/hello-spring-cloud-alibaba.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\hikaru\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\谢敏\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
