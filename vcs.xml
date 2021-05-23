@@ -222,6 +222,10 @@
           <option name="url" value="https://github.com/Jian0110/learning-cloudalibaba.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yuuki80code/cooky-cloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ideaProjects" />
