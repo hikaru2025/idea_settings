@@ -9,5 +9,8 @@
     <mask>*yaml</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
+    <mask>*.json</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
