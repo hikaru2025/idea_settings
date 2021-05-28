@@ -254,9 +254,17 @@
           <option name="url" value="https://github.com/hikaru2025/photovoltaic_station.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.nandianyunshang.com/xiemin/photovoltaic-tool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.nandianyunshang.com/xiemin/photovoltaic_station.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\lab" />
+    <option name="cloneParentDir" value="d:\lab" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
