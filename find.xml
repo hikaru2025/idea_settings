@@ -12,5 +12,6 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.vm</mask>
   </component>
 </application>
