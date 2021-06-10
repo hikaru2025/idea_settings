@@ -266,6 +266,10 @@
           <option name="url" value="https://github.com/airbnb/ruby.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.nandianyunshang.com/jiexd/csgoa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="d:\lab" />
