@@ -270,6 +270,14 @@
           <option name="url" value="https://git.nandianyunshang.com/jiexd/csgoa.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.153.132/root/hello-world.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.153.132" />
+          <option name="userName" value="root" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="d:\lab" />
