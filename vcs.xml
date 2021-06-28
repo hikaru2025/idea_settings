@@ -290,6 +290,10 @@
           <option name="url" value="https://gitlab.com/gitlab-examples/spring-gitlab-cf-deploy-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.10.1.182:7777" />
+          <option name="userName" value="hikaru2015" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="d:\lab" />
